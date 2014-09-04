@@ -25,6 +25,8 @@ Plugin 'FuzzyFinder'
 Plugin 'git://git.wincent.com/command-t.git'
  " ...
 
+Bundle "ekalinin/Dockerfile.vim"
+
 call vundle#end()
 filetype plugin indent on     " required!
 
